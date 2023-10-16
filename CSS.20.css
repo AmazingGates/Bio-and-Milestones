@@ -1,11 +1,12 @@
 body {
     margin: 0;
+    background-image: url("Alia\ 33.png");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
 }
 
 .top-container {
-    background-image: url("Alia\ 33.png");
-    height: 100vh;
-    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
